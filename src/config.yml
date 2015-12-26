@@ -101,6 +101,8 @@ blocked_commands:
   - 'n:b:/save-on:_'
   - 'n:b:/save-off:_'
   - 'n:b:/floodfill:_'
+  - 'n:b://schem list:If you wish to view the list of all the schematics currently on the server, visit this website: http://goo.gl/xHaB4l'
+  - 'n:b://schematic list:If you wish to view the list of all the schematics currently on the server, visit this website: http://goo.gl/xHaB4l'
 
   # Superadmin commands
   - 's:b:/kick:_'
